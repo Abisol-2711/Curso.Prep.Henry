@@ -1,5 +1,7 @@
 // No cambies los nombres de las funciones.
 
+let = "Es un texto de prueba para git, despues se debe borrar";
+
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
