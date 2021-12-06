@@ -1,0 +1,5 @@
+Variables: Es el lugar donde se guarda un dato, es como una caja.
+Stings: Es un tipo de dato que se usa para escribir texto, numeros. Va entre comillas. 
+Vaoleres booleanos: Son los valores "Verdadero" y "Falso".
+Declaraciones: Es el nombre que reciben las variables.
+Funciones: Es un conjunto de código reutilizable que realiza una tarea especifica
